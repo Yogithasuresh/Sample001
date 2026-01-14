@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 sunday
+=======
+local changes
+>>>>>>> 20a8381 (2nd local commit)
